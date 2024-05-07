@@ -12,6 +12,8 @@
   <h2>Goal</h2>
   <p>The goal of this project is to gain hands-on experience with AWS Cloud. As an information security professional aiming to secure organizational assets in the cloud, it's crucial not only to understand information security principles but also to apply them to cloud solutions.</p>
 
+ <h2> <a href="https://www.gktechlab.com"> Resume </a> </h2> 
+
   <h2>Description</h2>
 
   <h3>Context</h3>
