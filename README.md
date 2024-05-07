@@ -12,7 +12,7 @@
   <h2>Goal</h2>
   <p>The goal of this project is to gain hands-on experience with AWS Cloud. As an information security professional aiming to secure organizational assets in the cloud, it's crucial not only to understand information security principles but also to apply them to cloud solutions.</p>
 
- <h2> <a href="https://gktechlab.com"> Resume </a> </h2> 
+ <h3> <a href="https://gktechlab.com"> Access my AWS Resume online </a> </h3> 
 
   <h2>Description</h2>
 
@@ -38,15 +38,22 @@
   </ul>
 
   <h2>To Do</h2>
-  <ul>
-    <li>Building the Back End
-      <ul>
-        <li>Database - DynamoDB</li>
-        <li>Serverless Function - Lambda / Python</li>
-        <li>API - AWS API Gateway</li>
-      </ul>
-    </li>
-  </ul>
 
+<h3>Certification</h3> 
+    <ul> 
+      <li> Get a cloud certification </li>
+    </ul>
+    
+  <h3>Building the Back End</h3>
+    <ul>
+      <li>Database - DynamoDB</li>
+      <li>Serverless Function - Lambda / Python</li>
+      <li>API - AWS API Gateway</li>
+    </ul> 
+    
+<h2>References</h2>
+ <h3> <a href="https://cloudresumechallenge.dev/docs/the-challenge/aws/"> Cloud Resume Challenge official page </a> </h3> 
+
+ 
 </body>
 </html>
