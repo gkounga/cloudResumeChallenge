@@ -19,6 +19,8 @@
 
   <h2>Key Technologies Implemented</h2>
 
+![Capture d’écran du 2024-05-07 00-14-13](https://github.com/gkounga/cloudResumeChallenge/assets/99138607/03eba59b-f52c-4fbb-8ee7-6abf2d4e4222)
+  
   <h3>Front End</h3>
   <ul>
     <li>CloudFront</li>
